@@ -1,57 +1,39 @@
-# Hi there! 👋
+# Hi there, I'm Ankit Maurya! 👋
+## Engineering Student | Aspiring Developer
 
-I'm Ankit Maurya, an Engineering Student passionate about building innovative solutions and exploring new technologies.
+Welcome to my GitHub profile! I am a passionate engineering student with a keen interest in coding and technology. Below you'll find some information about me, my skills, education, tech stack, coding profiles, and social profiles.
 
-## 🛠️ Skills
+## Skills 🚀
+- Programming languages: Python 🐍, Java ☕️, C++ 🖥️
+- Web development: HTML 🌐, CSS 🎨, JavaScript 🕸️
+- Frameworks: Flask 🌶️, React ⚛️
+- Databases: SQL 🗃️, MongoDB 🍃
+- Version control: Git 🗂️, GitHub 🐙
+- Problem-solving and algorithm design 💡
 
-<!-- List your top skills or technologies -->
+## Education 🎓
+- [Name of University], [Degree], [Year]
+- [High School Name], [Year]
 
-- DSA
-- Development
-- Problem Solving
+## Tech Stack 💻
+- **Languages**: Python 🐍, Java ☕️, C++ 🖥️, HTML 🌐, CSS 🎨, JavaScript 🕸️
+- **Frameworks**: Flask 🌶️, React ⚛️
+- **Databases**: SQL 🗃️, MongoDB 🍃
+- **Tools**: Git 🗂️, GitHub 🐙
 
-## 📚 Education
+## Coding Profiles 📚
+- [LeetCode](https://leetcode.com/[your_username]/)
+- [HackerRank](https://www.hackerrank.com/[your_username])
 
-- Bachelor of Engineering in Computer Science(https://your-university.edu)
-- Year of Graduation: 2024
+## Social Profiles 🔗
+- [LinkedIn](https://www.linkedin.com/in/[your_username]) 
+- [Twitter](https://twitter.com/[your_username])
 
-## 🔭 Projects
+## Contact Me 📧
+- 📫 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💬 [Discord](https://discordapp.com/users/[your_discord_username])
+- 🌐 [Personal Website](https://www.yourwebsite.com)
 
-<!-- Highlight your notable projects with links and descriptions -->
+Feel free to explore my repositories and projects! If you have any suggestions, feedback, or just want to connect, feel free to reach out to me through any of the above channels.
 
-- [Project 1](https://github.com/your-username/project-1): Description of Project 1.
-- [Project 2](https://github.com/your-username/project-2): Description of Project 2.
-- [Project 3](https://github.com/your-username/project-3): Description of Project 3.
-
-## 🌱 Currently Learning
-
-<!-- List the technologies or skills you are currently learning -->
-
-- Learning 1
-- Learning 2
-- Learning 3
-
-## 📫 Contact Me
-
-<!-- Provide various ways to contact you -->
-
-- Email: your-email@example.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your-username](https://twitter.com/your-username)
-
-## 💻 Open Source Contributions
-
-<!-- Highlight your contributions to open source projects -->
-
-- [Contribution 1](https://github.com/open-source-project/contribution-1): Description of contribution 1.
-- [Contribution 2](https://github.com/open-source-project/contribution-2): Description of contribution 2.
-
-## 🌐 Find Me Online
-
-<!-- Add links to your other online profiles, such as blogs or portfolio websites -->
-
-- [Portfolio](https://your-portfolio.com)
-- [Dev.to](https://dev.to/your-username)
-- [Medium](https://medium.com/@your-username)
-
-<!-- Feel free to add any additional sections or customize the existing ones based on your preferences -->
+Let's code and create amazing things together! 🚀
