@@ -1,39 +1,27 @@
-# Hi there, I'm Ankit Maurya! 👋
-## Engineering Student | Aspiring Developer
+<h1 align="center">Hi 👋, I'm Ankit Maurya</h1>
+<h3 align="center">Enthusiastic learner && developer from India</h3>
 
-Welcome to my GitHub profile! I am a passionate engineering student with a keen interest in coding and technology. Below you'll find some information about me, my skills, education, tech stack, coding profiles, and social profiles.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-m15&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-m15" /> </p>
 
-## Skills 🚀
-- Programming languages: Python 🐍, Java ☕️, C++ 🖥️
-- Web development: HTML 🌐, CSS 🎨, JavaScript 🕸️
-- Frameworks: Flask 🌶️, React ⚛️
-- Databases: SQL 🗃️, MongoDB 🍃
-- Version control: Git 🗂️, GitHub 🐙
-- Problem-solving and algorithm design 💡
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit-m15" alt="ankit-m15" /></a> </p>
 
-## Education 🎓
-- [Name of University], [Degree], [Year]
-- [High School Name], [Year]
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## Tech Stack 💻
-- **Languages**: Python 🐍, Java ☕️, C++ 🖥️, HTML 🌐, CSS 🎨, JavaScript 🕸️
-- **Frameworks**: Flask 🌶️, React ⚛️
-- **Databases**: SQL 🗃️, MongoDB 🍃
-- **Tools**: Git 🗂️, GitHub 🐙
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ankit-m15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-m15" height="30" width="40" /></a>
+<a href="https://instagram.com/_ankit._15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ankit._15" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ankit_m15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ankit_m15" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ankit_m15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankit_m15" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/ankit5448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ankit5448" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ankitm15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankitm15" height="30" width="40" /></a>
+</p>
 
-## Coding Profiles 📚
-- [LeetCode](https://leetcode.com/[your_username]/)
-- [HackerRank](https://www.hackerrank.com/[your_username])
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## Social Profiles 🔗
-- [LinkedIn](https://www.linkedin.com/in/[your_username]) 
-- [Twitter](https://twitter.com/[your_username])
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-m15&show_icons=true&locale=en&layout=compact" alt="ankit-m15" /></p>
 
-## Contact Me 📧
-- 📫 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💬 [Discord](https://discordapp.com/users/[your_discord_username])
-- 🌐 [Personal Website](https://www.yourwebsite.com)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-m15&show_icons=true&locale=en" alt="ankit-m15" /></p>
 
-Feel free to explore my repositories and projects! If you have any suggestions, feedback, or just want to connect, feel free to reach out to me through any of the above channels.
-
-Let's code and create amazing things together! 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-m15&" alt="ankit-m15" /></p>
